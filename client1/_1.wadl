@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://wadl.dev.java.net/2009/02">
+  <doc xml:lang="en" title="http://localhost"/>
+  <resources base="http://localhost">
+    <resource path="myWebServices/tocode4/RWS1.php" id="RWS1.php">
+      <doc xml:lang="en" title="RWS1.php"/>
+      <method name="GET" id="RWS1.php 1">
+        <doc xml:lang="en" title="RWS1.php 1"/>
+        <request/>
+      </method>
+    </resource>
+  </resources>
+</application>
